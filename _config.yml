@@ -1,4 +1,4 @@
-name: "MLS"
+name: <img src="{{ site.url }}/assets/images/logoSuarez.png" class="img-fluid" alt="Responsive image">
 description: "Lightweight theme"
 
 url: '' 
